@@ -16,7 +16,8 @@ Squared Loss:
 ```
 = the square of the difference between the label and the prediction 
 = (observation - prediction(x))2   
-= (y - y')2 ```
+= (y - y')2 
+```
 
 
 # Reducing Loss
