@@ -1,4 +1,4 @@
-Neural Networks, Manifolds, and Topology(http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+[Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
 
 Regularization for Sparsity: L₁ Regularization
@@ -56,4 +56,4 @@ The problem with one-hot encoding a  NN with multiple classes is the size of the
 Principle Component Analysis is when you look for highly correlated dimensions that can be meged into a single dimension.
 
 
-Vector Representations of Words(https://www.tensorflow.org/tutorials/word2vec)
+[Vector Representations of Words](https://www.tensorflow.org/tutorials/word2vec)

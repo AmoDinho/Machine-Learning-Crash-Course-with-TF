@@ -36,9 +36,9 @@ First pick a starting point ie w1
 Then calculate the derivative of the curve, it will then tell you which way to go depending on its negative value. 
 
 The math behind it:
-![Graident Desecnt](https://honoursprogramme2018.slack.com/files/U8YQXGPLP/FAGPN20TE/screenshot-developers.google.com-2018.05.02-15-00-18.png)
+![Graident Desecnt](images/screenshot-developers.google.com-2018.05.02-15-00-18.png)
 
-![Math for GD](https://honoursprogramme2018.slack.com/files/U8YQXGPLP/FAHT7LMHU/screenshot-developers.google.com-2018.05.02-15-01-12.png)
+![Math for GD](images/screenshot-developers.google.com-2018.05.02-15-01-12.png)
 
 This diagram explains how to use the negative gradient to find the loss function.
 
@@ -67,7 +67,7 @@ An overfit model gets a low loss during training but does a poor job predicting 
 
 An Example of a model overfitting data:
 
-![Overfit data](https://honoursprogramme2018.slack.com/files/U8YQXGPLP/FAKGF0HT9/generalizationc.png)
+![Overfit data](images/U8YQXGPLP/FAKGF0HT9/generalizationc.png)
 
 The Blue dots over an orange surface area means it has made an incorrect prediction/classifiaction and vice versa for the orange dots.
 

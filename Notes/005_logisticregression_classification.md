@@ -13,7 +13,7 @@ when working with logistic regression we need to be certain to define a classifi
 
 True vs. False and Positive vs. Negative
 
-https://honoursprogramme2018.slack.com/files/U8YQXGPLP/FAMJ50SAV/log.png
+![Images](images/log.png)
 Accuracy
 
 Accuracy tells us the how well the model is doing to a certain extent. When working with a class-imbalanced data set we need to look at other metrics to understand what is going on. 

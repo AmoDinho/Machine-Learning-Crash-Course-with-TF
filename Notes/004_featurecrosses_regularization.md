@@ -1,6 +1,6 @@
 # Feature Crosses: Encoding Nonlinearity
 
-![Image](https://honoursprogramme2018.slack.com/files/U8YQXGPLP/FAL1310F5/screenshot-developers.google.com-2018.05.08-14-29-37.png)
+![Image](images/screenshot-developers.google.com-2018.05.08-14-29-37.png)
 
 
 # Feature Crosses: Crossing One-Hot Vectors
@@ -31,7 +31,7 @@ a function of the total number of features with nonzero weights.
 
 
 
-https://honoursprogramme2018.slack.com/files/U8YQXGPLP/FAL2EMYNL/l.png
+![Image](images/l.png)
 This is how we define a model with its weights.
 
 Lambda

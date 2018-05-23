@@ -4,16 +4,16 @@ If you ever get 100% for your loss function. MAKE sure you have not being traini
 
 It is when you go from Trainning and Test/Validation that you spot for overfitting. 
 
-![Image](https://honoursprogramme2018.slack.com/files/U8YQXGPLP/FAKGF0HT9/generalizationc.png)
+![Image](images/generalizationc.png)
 
 # Validation
 You need to partition the data into a test set.
 
-![Image](https://honoursprogramme2018.slack.com/files/U8YQXGPLP/FAKH477P1/test.png)
+![Image](images/test.png)
 
 New workflow
 
-![Image](https://honoursprogramme2018.slack.com/files/U8YQXGPLP/FAHV65DPT/new_test.png)
+![Image](images/new_test.png)
 
 
 
@@ -29,7 +29,7 @@ How do we map string values:
 1. First define a vocab of all features string values to rep. 
 2. Then use this vocab to create one-hot encoding to show the string as a binary vector. 
 
-![Image](https://honoursprogramme2018.slack.com/files/U8YQXGPLP/FAM01J8KY/screenshot-developers.google.com-2018.05.08-13-22-40.png)
+![Image](images/screenshot-developers.google.com-2018.05.08-13-22-40.png)
 
 
 **Mapping categorical (enumerated) values**
@@ -96,7 +96,7 @@ Scaling with Z scores means that most scaled values will be between -3 and +3, b
 
 Handling extreme outliers
 
-![Image](https://honoursprogramme2018.slack.com/files/U8YQXGPLP/FAL3HUY66/screenshot-developers.google.com-2018.05.08-13-56-48.png)
+![Image](images/screenshot-developers.google.com-2018.05.08-13-56-48.png)
 
 
 
