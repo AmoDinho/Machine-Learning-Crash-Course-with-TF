@@ -23,7 +23,7 @@ Squared Loss:
 
 __An Iterative Approach__
 
-![Screenshot](https://honoursprogramme2018.slack.com/files/U8YQXGPLP/FAGPH2HUL/screenshot-developers.google.com-2018.05.02-14-52-34.png)
+![Screenshot](images/screenshot-developers.google.com-2018.05.02-14-52-34.png)
 
 **Key Point:**
 A Machine Learning model is trained by starting with an initial guess for the weights and bias and iteratively adjusting those guesses until learning the weights and bias with the lowest possible loss.
